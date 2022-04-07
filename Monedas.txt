@@ -1,0 +1,6 @@
+Soles
+Dolar
+Peso
+Yen
+Libra
+Euro
